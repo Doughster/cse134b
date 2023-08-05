@@ -1,18 +1,16 @@
 {
   "projects": [
     {
-      "id": 1,
       "name": "Project 1",
       "image": "image1.jpg",
-      "description": "Description of Project 1",
-      "url": "https://project1-url.com"
+      "description": "Description for Project 1.",
+      "url": "https://example.com/project1"
     },
     {
-      "id": 2,
       "name": "Project 2",
       "image": "image2.jpg",
-      "description": "Description of Project 2",
-      "url": "https://project2-url.com"
+      "description": "Description for Project 2.",
+      "url": "https://example.com/project2"
     }
   ]
 }
