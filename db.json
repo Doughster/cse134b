@@ -2,25 +2,29 @@
   "projects": [
     {
       "name": "Project 1",
-      "image": "image1.jpg",
+      "image": "jonathan-ikemura-OvLoGDYS-1w-unsplash.jpg",
+      "alt": "Palm Trees",
       "description": "Description for Project 1.",
       "url": "https://example.com/project1"
     },
     {
       "name": "Project 2",
-      "image": "image2.jpg",
+      "image": "joseph-rund-6PyQ5-eRzQw-unsplash.jpg",
+      "alt": "Toyota Car in Background",
       "description": "Description for Project 2.",
       "url": "https://example.com/project2"
     },
     {
       "name": "Project 3",
-      "image": "image3.jpg",
+      "image": "mak-tKTz3FaP4DQ-unsplash.jpg",
+      "alt": "Asian Country with Girl in Background",
       "description": "Description for Project 3.",
       "url": "https://example.com/project3"
     },
     {
       "name": "Project 4",
-      "image": "image4.jpg",
+      "image": "neom-sP5ZW-JDIfI-unsplash.jpg",
+      "alt": "Nature with Mountains in the Back",
       "description": "Description for Project 4.",
       "url": "https://example.com/project4"
     }
