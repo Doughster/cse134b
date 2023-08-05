@@ -1,16 +1,18 @@
-[
+{
+  "projects": [
     {
+      "id": 1,
       "name": "Project 1",
       "image": "image1.jpg",
-      "imageAlt": "Project 1 Image",
       "description": "Description of Project 1",
-      "url": "https://project1url.com"
+      "url": "https://project1-url.com"
     },
     {
+      "id": 2,
       "name": "Project 2",
       "image": "image2.jpg",
-      "imageAlt": "Project 2 Image",
       "description": "Description of Project 2",
-      "url": "https://project2url.com"
+      "url": "https://project2-url.com"
     }
   ]
+}
